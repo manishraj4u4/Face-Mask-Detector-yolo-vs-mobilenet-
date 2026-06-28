@@ -1,7 +1,7 @@
 # 😷 3-Class Face Mask Detector – YOLOv8 vs MobileNetV2
 
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-orange)](https://tensorflow.org)
+[![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange)](https://tensorflow.org)
 [![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-brightgreen)](https://ultralytics.com)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.7-green)](https://opencv.org)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
