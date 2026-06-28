@@ -1,0 +1,35 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv
+
+# Data (large files)
+data/
+!data/dataset.yaml
+!data/README.md
+models/*.h5
+models/*.pt
+models/*.pth
+
+# YOLO training artifacts
+runs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Outputs (keep only demo GIF)
+outputs/*.mp4
+outputs/*.avi
+!outputs/demo.gif
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
